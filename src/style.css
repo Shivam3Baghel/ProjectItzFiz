@@ -6,6 +6,7 @@ flex-direction: column;
 .headline{
   color:gray;
   margin: 20px;
+  opacity:0;
 }
 .sticky-container{
    
@@ -27,4 +28,5 @@ flex-direction: column;
 .stat-item{
   border: 1px solid;
   padding: 4px;
+  opacity:0;
 }
