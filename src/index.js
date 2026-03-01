@@ -34,7 +34,7 @@ gsap.to(".headline", {
   },
     opacity: 1,
     y: 0,                  // Move back to original position
-    duration: 1,
+    duration: 3,
     ease: "power2.out"
 });
 gsap.to(".stat-item", {
@@ -47,6 +47,6 @@ gsap.to(".stat-item", {
   },
     opacity: 1,
     y: 0,                  // Move back to original position
-    duration: 1,
+    duration: 3,
     ease: "power2.out"
 });
