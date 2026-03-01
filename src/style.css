@@ -7,13 +7,14 @@ flex-direction: column;
   color:black;
   background-color: coral;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  padding-top:37px;
-  padding-bottom: 37px;
-  padding-left: 10px;
-  padding-right: 250px;
+  padding-top:3vh;
+  padding-bottom: 3vh;
+  padding-left: 30vh;
+
+  padding-right: 50vh;
   opacity:0;
-  font-size:100px;
-  margin:10px;
+  font-size:10vh;
+  margin:1vh;
 }
 .sticky-container{
   position:sticky;
@@ -28,9 +29,9 @@ flex-direction: column;
   /* margin-top: auto; */
   position: relative;
   
-  left: -120vh;
-  top:-35vh;
-  padding: 0px;
+  left: -130vh;
+  top:-17vh;
+  /* padding: 0px; */
   
 }
 .stats{
@@ -39,6 +40,7 @@ flex-direction: column;
 }
 .stat-item{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
   opacity:0;
   padding: 3vh;
   border:solid grey 2vh;
@@ -46,5 +48,5 @@ flex-direction: column;
 }
 .item2{
 position:relative;
-top: -33vh;
+top:-10vh;
 }
